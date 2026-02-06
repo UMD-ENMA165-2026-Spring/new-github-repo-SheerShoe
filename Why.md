@@ -8,7 +8,8 @@ Originally, I had opted for a README file just so that there would already be a 
 
 @guyer Hopefully this has everything you need, if I'm missing something please let me know.
 
-As thanks for reading all of my (questionable) decisions, here is a few fish 🐠🐠🐠🐠
+>[!IMPORTANT]
+>As thanks for reading all of my (questionable) decisions, here is a few fish 🐠🐠🐠🐠
 
 >[!WARNING]
 >This is the end of the document. There is nothing more here to read. Good day.
