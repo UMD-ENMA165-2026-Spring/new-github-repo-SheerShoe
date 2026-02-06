@@ -7,3 +7,5 @@ I'm going to have some fun with headers
 ## eeeeeeee
 ### eeeeeeeee
 
+>[!NOTE]
+>I did not have a specific goal in mind, so if a lot of this is pointlessly goofy, that's why.
