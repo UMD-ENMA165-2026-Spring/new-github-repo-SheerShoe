@@ -1,5 +1,4 @@
 # Why I made it this way
-Shirsho's Repository for the assignment.
 
 I decided to make this repository public because it makes things much easier from a perspective of sharing and grading.
 
