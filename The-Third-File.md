@@ -10,5 +10,7 @@ I'm going to have some fun with headers
 ## eeeeeeee
 ### eeeeeeeee
 
+[This site has the weather in Yakutsk, Russia, one of the coldest inhabited places on Earth](https://www.accuweather.com/en/ru/yakutsk/290150/weather-today/290150)
+
 >[!NOTE]
 >I did not have a specific goal in mind, so if a lot of this is pointlessly goofy, that's why.
